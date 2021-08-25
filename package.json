@@ -1,0 +1,17 @@
+{
+  "name": "cypresstest1",
+  "version": "1.0.0",
+  "description": "Introductory demonstration of using Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Shawn J Burke",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
